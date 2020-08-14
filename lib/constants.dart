@@ -4,7 +4,7 @@ const ts_big_bold = TextStyle(
   fontFamily: 'Roboto',
   fontSize: 30,
   letterSpacing: 2,
-  fontWeight: FontWeight.bold
+  fontWeight: FontWeight.bold,
 );
 const ts_big = TextStyle(
   fontFamily: 'Roboto',
